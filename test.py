@@ -1,4 +1,5 @@
-""" Requiremets:
+#! No shebang #!
+""" Requirements:
 * Linux
 * nginx in $PATH and
 * /etc/hosts contaning a line like:
