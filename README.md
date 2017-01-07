@@ -1,6 +1,7 @@
 # The Games
 
-## For people whol like to read code:
+## For people whol like to read code
+
 Start with the ``pics`` branch, try to find a way to the
 ``you-won`` tag.
 
