@@ -9,6 +9,7 @@
 
 # no __future__
 # no 'public class' either
+# By the way, is Python a Object Oriented Programming language ?
 
 import copy
 import getpass
@@ -362,6 +363,7 @@ I really don't want anyone to know ...
     print(pornhub_server.logs)
     assert_("mr_nice_guy_home_page", "not found in", pornhub_server.logs)
 
-
+    
+# no if __name__ == "__main___" :)
 
 # [1]: Hint: it's almost vim, but not quite
